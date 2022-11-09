@@ -1,0 +1,7 @@
+package com.example.testappformvvm.helper
+
+object Constants {
+    const val BASE_URL ="http://app.smarttrades.online:610/"
+    const val END_PONT ="api/portfolioorder/all"
+    const val AUTH_TOKEN="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJJZmZhdCIsIklkIjoiOTMiLCJVc2VybmFtZSI6IklmZmF0IiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiU3VwZXJBZG1pbiIsIlJvbGVJZCI6IjEiLCJDb21wYW55SWQiOiIxIiwiZXhwIjoxNjY4MDAyMjY1LCJpc3MiOiJ0ZXN0LmNvbSIsImF1ZCI6InRlc3QuY29tIn0.zgqEGDccLQv5asfuaCjXiRJEaavGqU9Iccldjg2bBpU"
+}
